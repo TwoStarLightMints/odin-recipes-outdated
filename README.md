@@ -1,0 +1,1 @@
+This project is a demonstration of the knowledge I have gained working through the HTML foundations section of The Odin Project's foundations course. This project is also a handy reference for several recipes.
